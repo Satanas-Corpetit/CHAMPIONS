@@ -120,14 +120,7 @@
                 "online":"true"
                   
           },
-            {
-                "name": "ACCION * ",
-                "image": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Canal%2B_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/714?cb=20100604113249",
-                "url": "http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/10222.ts",
-                "desktop": "true",
-                "online":"true"
-                  
-          },
+            
           {
                 "name": "ESTRENOS * ",
                 "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
@@ -136,14 +129,7 @@
                 "online":"true"
                   
           },
-          {
-                "name": "ESTRENOS *122 ",
-                "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
-                "url": "http://45.153.33.158:3265/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/10227.ts?token=SEELUENQGwpHAAlUVVEGBFQCWwNRUFABAg4DVwcOBFAGAlFSAwlcUQETFBcQEURXVg5mCAdDDAMFClAEHBVEFlYRPFhUGgMSVgIKBUFJFEZeDlxDWVAABQUIUgcIBwNJERMKVRICV0UJXRQXBh1CV0UNWA08BVNEXFsHEQpZRAlfT0FeXmddVQhQVlFBXxQDFU8bCBARFAgXew5cRVNXCVIRBh0QcVdTSxMUFwEMQkBWF1xDWQ9DXlkUQFBfQl8RQRpBCxJ9ahJJE11NFwBYQV4MV0NZQ0JBFxRAWkNoQwBAFxFUUVVcQkcLGgRBSRRfVhtmAgwPWFdWTAtcXkQTXxFXUwESFBtdCl9RQQwXaUJeBxtbDRRaXkg=",
-             
-                "online":"true"
-                  
-          },
+         
           {
                 "name": "ESTRENOS 2 * ",
                 "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
@@ -168,7 +154,7 @@
                 "name": "TOROS HD 2* ",
                 "image": "https://telefullenvivo.com/logos/toros.png",
                 "url" : "http://fxorexworld.com:8080/8zT1iwoWZv/X0DsOzYUaM/1100",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+		"userAgent": "DMAX",
                 "online":"true"
              
                   
