@@ -267,9 +267,11 @@
            { 
                 "name": "La Liga *",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117125",
-                "online":"true"
-                
+                "url": "http://utopianwilderness.com/embed/vmrjhp94n",
+		"referer": "https://latele-envivo.com/Deportes/laliga/op3.php",
+                "desktop": "true",
+                "online":"true",
+                "isHost": "true"
                 
                
                 
