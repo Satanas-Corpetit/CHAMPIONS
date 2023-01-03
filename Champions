@@ -362,13 +362,13 @@
           },
 	  {
                 "name": "La Liga DAZN *",
-                "image": "https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg",
+                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
                 "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
                 "referer":"https://olacast.live/",
                 "desktop": "true",
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
                 "online":"true",
-                "isHost":"true"
+                "embed":"true"
                   
           },
           
