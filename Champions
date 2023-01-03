@@ -353,11 +353,11 @@
           { 
                 "name": "La Liga DAZN *",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
+                "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
                 "referer": "https://starlive.xyz/",
                 "desktop": "true",
-		        "online":"true",
-			    "isHost" : "true" 
+		"online":"true",
+		"isHost" : "true" 
                 
                
                 
