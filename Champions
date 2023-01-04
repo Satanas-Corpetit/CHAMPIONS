@@ -420,7 +420,7 @@
            {
                 "name": "Liga de Campeones *",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-                "url": "http://389898142452147512.dut886.xyz:80/live/4BQNUACJNS/6010766685/165358.ts"
+                "url": "http://389898142452147512.dut886.xyz:80/live/4BQNUACJNS/6010766685/165358.ts",
 		"desktop": "true",
                 "online":"true"
           },
@@ -440,11 +440,11 @@
            {
                 "name": "Deportes *",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",
-                "url": "https://ragnarp.net/embed/dcgmsy35q",
-                "referer" : "https://leet365.cc/",
+                "url":"https://ragnarp.net/embed/dcgmsy35q",
+                "referer":"https://leet365.cc/",
                 "desktop": "true",
-		        "online":"true",
-			    "isHost": "true"
+		"online":"true",
+		"isHost": "true"
                
           },
            {
