@@ -525,7 +525,7 @@
                 "referer": "https://starlive.xyz/",
                 "desktop": "true",
                 "online":"true",
-                "isHost": "true"
+                "embed": "true"
 							
 			},
 			{
