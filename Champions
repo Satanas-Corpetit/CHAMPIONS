@@ -434,7 +434,8 @@
 		"referer":"https://www.tutelehd.com/",
                 "desktop": "true",
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-                "online":"false"
+                "online":"false",
+		"embed":"true"
             },
            
            
