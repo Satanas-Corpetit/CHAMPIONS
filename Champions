@@ -668,6 +668,38 @@
       "image":"https://1.bp.blogspot.com/-d6hnR9tBd8A/XuCU7sDBLfI/AAAAAAAABD8/rERsq-OeXXU30nyTv5pHvCl9YihkBWCLQCK4BGAsYHg/s1280/maxresdefault.jpg",
       "stations":[
       {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          }, 
+	  {
+                "name": "My Best Friend's Exorcism",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_4525106fd2f687255209bcb936bd219c.jpg",
+                "url":"https://gamovideo.net/4fgrnciqmlqu",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          }, 
+	  {
+                "name": "The Queen of Black Magic",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_23e674a75022d6eae3342ccd24ead607.jpg",
+                "url":"https://gamovideo.net/2dfm6d89ls9p",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          }, 
+	  {
+                "name": "Reyes contra Santa",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_4a027c4ce6d1f232bd84ee30a41fa906.jpg",
+                "url":"https://gamovideo.net/qh25uh2l483k",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          }, 
+	   {
                 "name": "Avatar: El sentido del agua",
                               "image": "https://hdfullcdn.cc/tthumb/172x256/movie_73fd509b3e05f7066357f8586fb0773e.jpg",
                 "url":"https://gamovideo.net/6cz62v2rmqdg",
