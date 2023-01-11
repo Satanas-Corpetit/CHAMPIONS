@@ -201,14 +201,15 @@
                 "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d56c8567936963.5b4be96aaa016.png",
                 "stations":        
             [ 
-            {    
-                "name": "GOL MUNDIAL 1*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i", 
-                "referer": "https://l1l1.to/", 
-                "isHost":"true",
-                "online":"true"
-            },
+           {
+		"name": "Liga de Campeones *",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+		"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
+		"referer": "https://starlive.stream/hd6.php",
+                "desktop": "true",
+                "online":"true",
+		"isHost":"true"
+                
             {
                 "name": "GOL MUNDIAL 1*",
                 "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
@@ -274,6 +275,18 @@
                 "desktop": "true",
                 "online":"true",
                 "isHost": "true"
+                
+               
+                
+          },
+	  { 
+                "name": "La Liga  TV*",
+                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
+                 "url": "https://starlive.xyz/embed.php?id=livexLiga",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+		"desktop":"true",
+		"referer":"https://olacast.live/",
+                "online":"true"
                 
                
                 
