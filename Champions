@@ -211,13 +211,7 @@
 		"isHost":"true"
             },
                 
-            {
-                "name": "GOL MUNDIAL 1*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "http://donton.cfd:8080/live/661667773720758041/1531667773720758/5663.ts",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-            },
+            
             {
                 "name": "SUPER COPA*",
                 "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
@@ -225,36 +219,15 @@
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
             },
+                
             {
-                "name": "GOL MUNDIAL 1*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "https://utopianwilderness.com/embed/datzi6", 
-                "referer": "https://starlive.xyz/",
-                "online":"true"
-            },
-            {
-                "name": "GOL MUNDIAL 1*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "https://www.tutelehd.net/online.php?a=8721",
-                "referer":"https://futbolfullenvivo.com/",
-                "desktop": "true",
-                "online":"true",
-                "isHost": "true"
-            },
-            {
-                "name": "GOL MUNDIAL 1*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "http://37.49.230.42:8080/googleiptvex/icuSCHionCuLovoLEFeR/81096",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-            },
-            {
-                "name": "GOL MUNDIAL 1212",
+                "name": "GOL MUNDIAL 12135232",
                 "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
                 "url": "https://starlive.xyz/embed.php?id=livexLiga",
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 		"desktop":"true",
 		"referer":"https://olacast.live/",
+		"embed":"true",
                 "online":"true"
 }  
 
@@ -355,6 +328,13 @@
                
                 
           },
+	  {
+                "name": "la  Liga DAZN*",
+                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
+                "url": "https://utopianwilderness.com/embed/datzi6", 
+                "referer": "https://starlive.xyz/",
+                "online":"true"
+            },
           { 
                 "name": "La Liga DAZN *",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
