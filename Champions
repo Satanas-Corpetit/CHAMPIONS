@@ -198,12 +198,12 @@
                  
             {
                         "name": "SUPER COPA",
-                "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d56c8567936963.5b4be96aaa016.png",
+                "image":"https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
                 "stations":        
             [ 
            {
 		"name": "SUPER COPA *",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
+		"image": "https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
 		"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
 		"referer": "https://starlive.stream/hd6.php",
                 "desktop": "true",
@@ -214,22 +214,11 @@
             
             {
                 "name": "SUPER COPA*",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
+                "image": "https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
                 "url": "http://688689503931304705.niceapy.xyz:80/live/ja08203/5224310010/282469.ts",
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
-            },
-                
-            {
-                "name": "GOL MUNDIAL 12135232",
-                "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
-                "url": "https://starlive.xyz/embed.php?id=livexLiga",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-		"desktop":"true",
-		"referer":"https://olacast.live/",
-		"embed":"true",
-                "online":"true"
-}  
+            }
 
 ]
 },
