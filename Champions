@@ -247,10 +247,10 @@
                 "online":"true"
             },
             {
-                "name": "GOL MUNDIAL 1*1212",
+                "name": "GOL MUNDIAL 1111*1212",
                 "image": "https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_4336978167.jpg",
                 "url": "https://starlive.xyz/embed.php?id=livexLiga",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
                 "online":"true"
 }  
 
