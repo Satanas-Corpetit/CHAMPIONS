@@ -151,9 +151,10 @@
                   
           },
           {
-                "name": "TOROS HD 2* ",
+                "name": "TOROS HD 2** ",
                 "image": "https://telefullenvivo.com/logos/toros.png",
                 "url" : "http://ip.sltv.shop:8080/Berdegue22/CYLwDqvAYm/211104",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 		"online":"true"
              
                   
