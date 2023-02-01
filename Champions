@@ -160,8 +160,24 @@
                   
           },
           
+         
           {
-                "name": "TOROS HD 3*",
+                "name": "TOROS HD 3**",
+                "image": "https://telefullenvivo.com/logos/toros.png",
+                "url": "http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmA6jJudIEoN83Qk0CbNiGgouWdSEtS_YIsjxReTeL65F",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+          
+          {
+                "name": "TOROS  HD 4*",
+                "image": "https://telefullenvivo.com/logos/toros.png",
+                "url": "http://protocol.solanaflix.com:8080/play/3dICGxKgmk2xwFgu3xiAmxmy77FFxpQTL4GZV8U6LA49E7Qr1muryJsevVoETEGf",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+	   {
+                "name": "TOROS HD *",
                 "image": "https://telefullenvivo.com/logos/toros.png",
                 "url" : "https://deliriousholistic.net/embed/a57mc",
                 "referer" : "https://verlatelevision.com/",
@@ -169,20 +185,6 @@
                 "online":"true",
                 "isHost":"true"
                   
-          },
-          {
-                "name": "TOROS HD 4**",
-                "image": "https://telefullenvivo.com/logos/toros.png",
-                "url": "http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmA6jJudIEoN83Qk0CbNiGgouWdSEtS_YIsjxReTeL65F",
-               "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-          },
-          
-          {
-                "name": "TOROS *",
-                "image": "https://telefullenvivo.com/logos/toros.png",
-                "url": "http://154.54.220.247:51323/play/a03e/index.m3u8",
-                "online":"true"
           },
            
            {
