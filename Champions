@@ -201,13 +201,13 @@
                  
                  
             {
-                        "name": "SUPER COPA",
-                "image":"https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
+                        "name": "CHAMPIONS",
+                "image":"https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
                 "stations":        
             [ 
            {
-		"name": "SUPER COPA *",
-		"image": "https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
+		"name": "CHAMPIONS *",
+		"image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
 		"url": "https://unbiasedsenseevent.com/embed/ksji2aq4bn72",
 		"referer": "https://starlive.stream/hd6.php",
                 "desktop": "true",
@@ -217,8 +217,8 @@
                 
             
             {
-                "name": "SUPER COPA*",
-                "image": "https://cdn.sincroguia.tv/uploads/programs/s/u/p/supercopa-de-espana-de-futbol-sala-poster-1132081_SPA-54_V.jpg",
+                "name": "CHAMPIONS*",
+                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
                 "url": "http://688689503931304705.niceapy.xyz:80/live/ja08203/5224310010/282469.ts",
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
