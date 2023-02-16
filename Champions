@@ -250,10 +250,8 @@
 	  { 
                 "name": "La Liga  TV*",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                 "url": "https://starlive.xyz/embed.php?id=livexLiga",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-		"desktop":"true",
-		"referer":"https://olacast.live/",
+                "url": "http://653415542109262413.nicesjb.xyz:80/play/4BQNUACJNS/6010766685/262413.ts",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
                 
                
