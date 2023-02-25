@@ -682,7 +682,7 @@
 		"embed":"true",
                 "online":"true"
           },
-	  {
+	   {
                 "name": "",
                               "image": "",
                 "url":"",
@@ -690,7 +690,7 @@
                 "isHost":"true",
                 "online":"true"
           },
-	  {
+	   {
                 "name": "",
                               "image": "",
                 "url":"",
@@ -698,10 +698,50 @@
                 "isHost":"true",
                 "online":"true"
           },
-	  {
+	   {
                 "name": "",
                               "image": "",
                 "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "High Heat",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_16d136e28a664b8d00d4f4b478ba07e7.jpg",
+                "url":"https://gamovideo.net/gpy6hl3sku1f",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "The Last Manhunt",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_76dd59e77411d2b1a319af96b601b014.jpg",
+                "url":"https://gamovideo.net/4x4bdbqelfsh",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Deseo ardiente",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_aa9f79be14c9ec3527859ee3caa60cbe.jpg",
+                "url":"https://gamovideo.net/292ipltrs8j0",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Bruiser",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_161ca29c49ff98c0f1add4d7074c9455.jpg",
+                "url":"https://gamovideo.net/2lvi690eq4d9",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Corten!",
+                              "image": "https://hdfullcdn.cc/tthumb/172x256/movie_c9f8a3330fa3702dbc7b2a4eb9784ac2.jpg",
+                "url":"https://gamovideo.net/iwuhbs1l0hpy",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "isHost":"true",
                 "online":"true"
