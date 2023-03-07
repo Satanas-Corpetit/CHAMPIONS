@@ -2770,8 +2770,7 @@
                               "image": "https://hdfullcdn.cc/tthumb/172x256/movie_b947fcd34d5e7fae8c1acb572c4dc6c6.jpg",
                 "url":"https://upstream.to/w1u2s7ig9i70",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktop":"true",
-		"embed":"true",
+                "isHost":"true",
                 "online":"true"
           },
           {
