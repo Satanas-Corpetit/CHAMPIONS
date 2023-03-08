@@ -101,11 +101,11 @@
                   
           }, 
 	  {
-                "name": "HDFULL **",
+                "name": "HDFULL *",
                 "image": "https://hdfullcdn.cc/templates/hdfull/images/logo.png",
                 "url": "https://hdfull.store/",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-                "referer":"https://hdfullcdn.cc/templates/hdfull/js/bootstrap.js?v=3.1.27", 
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                "referer":"https://hdfull.store/?__cf_chl_tk=uE2cLbiOgsm.IPCCienGTFR2Yzs3teJJ0u0Zf0XYBhA-1678298875-0-gaNycGzNDCU", 
                 "desktop": "true",
                 "online":"true",
 		"isHost":"true",
