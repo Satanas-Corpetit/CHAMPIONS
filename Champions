@@ -100,6 +100,16 @@
                 "embed":"true"
                   
           }, 
+	  {
+                "name": "HDFULL *",
+                "image": "https://hdfullcdn.cc/templates/hdfull/images/logo.png",
+                "url": "https://hdfull.store/",
+                "referer":"", 
+                "desktop": "true",
+                "online":"true",
+                "embed":"true"
+                  
+          },
           
           {
                 "name": "#0 *",
