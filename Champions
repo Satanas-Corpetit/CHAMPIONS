@@ -268,11 +268,12 @@
                 
           },
 	  { 
-                "name": "La Liga  TV*",
+                "name": "La Liga  TV**",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "http://653415542109262413.nicesjb.xyz:80/play/4BQNUACJNS/6010766685/262413.ts",
-                
-		"desktop": "true",
+                "url": "https://vikistream.com/embed2.php?player=desktop&live=mlaliga",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                "desktop": "true",
+		"isHost":"true",
                 "online":"true"
                 
                
