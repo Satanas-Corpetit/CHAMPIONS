@@ -619,59 +619,7 @@
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
                 "desktot":"true",
                 "embed":"true" 
-          },    
-          { 
-                "name": "MOVISTAR ACESTREAM",
-                "image": "https://s3-eu-west-1.amazonaws.com/rankia/images/valoraciones/0020/3460/movistar-plus-.png?1436255144",
-                "url": "https://www.socialcreator.com/deportesacestream",
-                "embed":"true"
-          },
-           { 
-                "name": "Live Stream",
-                "image": "https://s3-eu-west-1.amazonaws.com/rankia/images/valoraciones/0020/3460/movistar-plus-.png?1436255144",
-                "url": "https://sportsbay.unblockit.onl/free-live-streams",
-                "userAgent": "Lavf/57.83.100" ,
-                 "referer":" https://unblockit.onl/",
-                "desktop":"true",
-                "embed":"true"
-                
-          },
-          
-           {
-                "name": "La liga by NANO",
-                              "image": "https://tecnologiadelfuturo.es/wp-content/uploads/2019/09/balon-de-futbol-inteligente.jpeg",
-                "url": "acestream://e7d641b57b6ef58f6fcac646485e4f8006aeab45"
-                
-          },
-           {
-                "name": "La liga by NANO",
-                              "image": "https://tecnologiadelfuturo.es/wp-content/uploads/2019/09/balon-de-futbol-inteligente.jpeg",
-                "url": "acestream://f718365f4b78994b9c010285a3144da48a882bea"
-                
-          },
-           {
-                "name": "",
-                              "image": "https://tecnologiadelfuturo.es/wp-content/uploads/2019/09/balon-de-futbol-inteligente.jpeg",
-                "url": "https://allfoot.info/2watch/4/29.php",
-                "isHost":"true"  
-          },
-          {
-                "name": "",
-                              "image": "https://tecnologiadelfuturo.es/wp-content/uploads/2019/09/balon-de-futbol-inteligente.jpeg",
-                "url": "https://arenavision.club/17pb.m3u8",
-                 "userAgent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
-                
-                "isHost":"true"
-               
-               
-                
-          }
-           
-          
-          
-          
-          
-          
+          }          
           ]
                   },
                   
