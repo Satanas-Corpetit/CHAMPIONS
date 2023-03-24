@@ -268,7 +268,7 @@
                 
           },
 	  { 
-                "name": "La Liga  TV**",
+                "name": "La Liga *",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
                 "url": "https://vikistream.com/embed2.php?player=desktop&live=mlaliga",
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
@@ -280,13 +280,13 @@
                 
           },
            { 
-                "name": "La Liga **",
+                "name": "La Liga TV*",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://deliriousholistic.net/embed/oasw0jx2c6b",
-                "referer": "https://bahiadeportes.com/canales/daznlaliga.php",
+                "url": "https://vikistream.com/embed2.php?player=desktop&live=laligauk",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
                 "desktop": "true",
-                "online":"true",
-                "isHost": "true"
+		"isHost":"true",
+                "online":"true"
                 
                 
                
@@ -345,8 +345,10 @@
 	  {
                 "name": "la  Liga DAZN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://utopianwilderness.com/embed/datzi6", 
-                "referer": "https://starlive.xyz/",
+                "url": "https://vikistream.com/embed2.php?player=desktop&live=daznlaliga", 
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+                "desktop": "true",
+		"isHost":"true",
                 "online":"true"
             },
           { 
