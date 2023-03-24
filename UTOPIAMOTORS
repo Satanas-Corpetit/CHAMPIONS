@@ -101,8 +101,16 @@
 {
 "name": " MOTOGP  dazn * ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-"referer" : "https://starlive.xyz/",
+"url" : "https://vikistream.com/embed2.php?player=desktop&live=do30",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+"online":"true",
+"isHost": "true"
+},
+{
+"name": "MOTOGP*",
+"image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
+"url": "https://unbiasedsenseevent.com/embed/ilxvi582u4i37s",
+"referer": "https://l1l1.to/",
 "desktop": "true",
 "online":"true",
 "isHost": "true"
@@ -110,20 +118,11 @@
 {
 "name": "MOTOGP*",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
-"referer": "https://bahiadeportes.com/",
-"desktop": "true",
-"online":"true",
-"isHost": "true"
-},
-{
-"name": "MOTOGP*",
-"image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
+"url" : "https://vkvsd90.mycdn.me/hls/3887494007322.m3u8/sig/KLe9nO9cQc4/expires/1679741950787/srcIp/37.14.131.253/urls/45.136.21.56/clientType/13/srcAg/CHROME_ANDROID/mid/4771921931034/3887494007322_fullhd/index.m3u8",
 "referer" : "https://bahiadeportes.com/",
 "desktop": "true",
-"online":"true",
-"isHost" : "true"
+"online":"true"
+
 },
 {
 "name": " MOTOGP  DAZN INGLES * ",
