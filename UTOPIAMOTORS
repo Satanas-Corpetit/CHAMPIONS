@@ -222,13 +222,23 @@
 "image": "http://andreigubin.ucoz.ru/update.png"
 },
 {
-"name": "FORMULA 1* ",
+"name": "FORMULA 1* VPN ",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
 "url": "https://starlive.xyz/ch/daznf1es.php",
 "referer": "https://starlive.xyz/",
 "desktop": "true",
 "online":"true",
 "embed":"true"
+},
+{
+"name": "FORMULA 1*  ",
+"image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
+"url": "https://starlive.xyz/embed.php?id=liveF1_ES",
+"referer": "https://starlive.xyz/embed.php?id=liveF1_ES",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+"desktop": "true",
+"online":"true",
+"isHost":"true"
 },
 {
 "name": "FORMULA 1** ",
