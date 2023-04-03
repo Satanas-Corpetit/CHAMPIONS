@@ -555,9 +555,11 @@
              {
                 "name": "#Vamos *",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1",
-                "url": "http://653415542109321071.nicesjb.xyz:80/play/4BQNUACJNS/6010766685/321071.ts",
+                "url": "https://www.freeshot.live/live-tv/movistar-vamos/376",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 		"desktop": "true",
-                "online":"true"
+                "online":"true",
+		"isHost":"true"
              
           },
 	   {
