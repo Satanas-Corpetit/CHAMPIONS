@@ -736,6 +736,159 @@
                 "online":"true"
           },
 	   {
+                "name": "El Piloto",
+                              "image": "https://pics.filmaffinity.com/plane-349391874-mmed.jpg",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "El gato con botas: El último deseo",
+                              "image": "https://pics.filmaffinity.com/puss_in_boots_the_last_wish-897078202-mmed.jpg",
+                "url":"https://upstream.to/uc85nfoiixbg",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Big Mäck: Gánsteres y oro",
+                              "image": "https://pics.filmaffinity.com/big_mack_gangster_und_gold-847558157-mmed.jpg",
+                "url":"https://upstream.to/rwmm0yrq723t",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Zoe y Tempestad",
+                              "image": "https://pics.filmaffinity.com/tempete-159164668-mmed.jpg",
+                "url":"https://upstream.to/tq8njrwy8eb3",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "El viaje a París de la señora Harris",
+                              "image": "https://pics.filmaffinity.com/mrs_harris_goes_to_paris-814207373-mmed.jpg",
+                "url":"https://upstream.to/m9k36vq2t57t",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "La canción del marinero",
+                              "image": "https://pics.filmaffinity.com/my_sailor_my_love-198343501-mmed.jpg",
+                "url":"https://upstream.to/kw2oc9k8vsxi",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Momias",
+                              "image": "https://pics.filmaffinity.com/momias-757383438-mmed.jpg",
+                "url":"https://upstream.to/12c9z7copq0x",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Infinite Storm",
+                              "image": "https://pics.filmaffinity.com/infinite_storm-194351163-mmed.jpg",
+                "url":"https://upstream.to/jymrnjxoaunk",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Amor en Rye Lane",
+                              "image": "https://pics.filmaffinity.com/rye_lane-372760216-mmed.jpg",
+                "url":"https://upstream.to/y2g526imdxg6",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Nube en el desván",
+                              "image": "http://www.hispashare.org/images/cover.php?id=39692",
+                "url":"https://upstream.to/lsypuu64okf5",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Mantícora",
+                              "image": "https://pics.filmaffinity.com/manticora-528006327-mmed.jpg",
+                "url":"https://upstream.to/hdyu1csymkzo",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Medieval",
+                              "image": "https://pics.filmaffinity.com/medieval-423308372-mmed.jpg",
+                "url":"https://upstream.to/4dz78qfl5i5s",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "A todo tren 2: Sí, les ha pasado otra vez",
+                              "image": "https://pics.filmaffinity.com/a_todo_tren_2_si_les_ha_pasado_otra_vez-744558205-mmed.jpg",
+                "url":"https://upstream.to/yrmds708aprs",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Pacto de graduación",
+                              "image": "https://pics.filmaffinity.com/prom_pact-182190446-mmed.jpg",
+                "url":"https://upstream.to/42sc7ia29imk",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Nostalgia",
+                              "image": "https://pics.filmaffinity.com/nostalgia-185134368-mmed.jpg",
+                "url":"https://upstream.to/v05cpawkg32o",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Love Thing",
+                              "image": "https://pics.filmaffinity.com/liebesdings-260343200-mmed.jpg",
+                "url":"https://upstream.to/78si2y5hgg88",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "El protector (The Enforcer)",
+                              "image": "https://pics.filmaffinity.com/the_enforcer-559141231-mmed.jpg",
+                "url":"https://upstream.to/mrj43k9ui2se",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
                 "name": "Lazos rotos",
                               "image": "https://pics.filmaffinity.com/broken_ties-577783841-mmed.jpg",
                 "url":"https://upstream.to/qa0qk9t6km7q",
@@ -900,7 +1053,7 @@
 	   {
                 "name": "Avatar: El sentido del agua",
                               "image": "https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg",
-                "url":"https://upstream.to/7o5r2x7o8c1d",
+                "url":"https://upstream.to/solxion5xhgn",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
