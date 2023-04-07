@@ -735,9 +735,27 @@
                 "online":"true"
           },
 	   {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "88",
+                              "image": "https://pics.filmaffinity.com/88-240417212-large.jpg",
+                "url":"https://upstream.to/u23h4sng5dm7",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Robot de compañía",
+                              "image": "https://pics.filmaffinity.com/2050-661740634-mmed.jpg",
+                "url":"https://upstream.to/6er9xiibnh90",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "La isla de los condenados",
+                              "image": "https://pics.filmaffinity.com/the_condemned-421227073-mmed.jpg",
+                "url":"https://upstream.to/mz3eg7pwsjnf",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
