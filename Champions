@@ -735,6 +735,42 @@
                 "online":"true"
           },
 	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Chuck Steel: Night of the Trampires",
+                              "image": "https://pics.filmaffinity.com/chuck_steel_night_of_the_trampires-499552985-mmed.jpg",
+                "url":"https://upstream.to/6fhxztuu60ap",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	    {
+                "name": "El asesinato de John Lennon",
+                              "image": "https://pics.filmaffinity.com/chapter_27-270212975-mmed.jpg",
+                "url":"https://upstream.to/0lk6ieb2fvj9",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	    {
+                "name": "Agente oculto",
+                              "image": "https://pics.filmaffinity.com/rogue_agent-108849211-mmed.jpg",
+                "url":"https://upstream.to/okqng9yhtgl4",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
                 "name": "Operación Fortune: El gran engaño",
                               "image": "https://pics.filmaffinity.com/operation_fortune_ruse_de_guerre-536321205-mmed.jpg",
                 "url":"https://upstream.to/1orfad89o1v2",
