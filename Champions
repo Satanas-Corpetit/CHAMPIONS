@@ -563,8 +563,8 @@
 	   {
                 "name": "#Vamos *",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1",
-                "url": "https://fullhdmatch.xyz/vamos/index.mpd",
-		"desktop": "true",
+                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117129",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
              
           }
