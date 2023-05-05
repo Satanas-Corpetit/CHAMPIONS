@@ -741,19 +741,28 @@
 		"isHost":"true",
                 "online":"true"
           },
-	  {
-                "name": "",
-                              "image": "",
-                "url":"",
+	   {
+                "name": "Assassin Club",
+                              "image": "https://pics.filmaffinity.com/assassin_club-144391449-mmed.jpg",
+                "url":"https://upstream.to/6gt933bg3t7e",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
                 "online":"true"
           },
 	  {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "Brian y Charles",
+                              "image": "https://pics.filmaffinity.com/brian_and_charles-322428220-mmed.jpg",
+                "url":"https://upstream.to/ihayndk70wys",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Irati",
+                              "image": "https://pics.filmaffinity.com/irati-412669481-mmed.jpg",
+                "url":"https://upstream.to/tkzvo47ufum3",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
