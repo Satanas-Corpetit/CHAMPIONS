@@ -107,10 +107,10 @@
 "isHost": "true"
 },
 {
-"name": "MOTOGP*",
+"name": "MOTOGP**",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
 "url": "https://player.tutelehd5.xyz/online.php?a=6110",
-"userAgent": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 "desktop": "true",
 "online":"true",
 "embed": "true"
