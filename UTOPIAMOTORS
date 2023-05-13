@@ -64,30 +64,7 @@
 "name":"CANALES MOTOGP",
 "image":"https://media.giphy.com/media/TIKlnvZRky3CTFXdHi/giphy.gif?cid=ecf05e47imjt2mcrbp7t03zr5k48yrjnkcrqy7yx1jpqixyq&rid=giphy.gif&ct=g",
 "stations":[
-{
-"name":"TV  A LA CARTA  MOTOGP",
-"image":"http://photos.motogp.com/2016/11/09/lg5_3164_0.big.jpg",
-"url":"http://livetv.sx/es/eventinfo/808949_italian_grand_prix/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.1.5142.43 Safari/537.36",
-"embed": true,
-"isHost": ""
-},
-{
-"name": "MOTOS A LA CARTA",
-"image": "https://render.fineartamerica.com/images/rendered/default/metal-print/10.000/6.750/break/images/artworkimages/medium/1/motogp-logo-saparuddin-yusuf.jpg",
-"url": "https://buffstreams.tv/watch-motorsports",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.1.5142.43 Safari/537.36",
-"desktop":"true",
-"embed": true
-},
-{
-"name": "motogp en italiano ",
-"image": "https://archive.org/download/sky-sports-logo/sky-sports-logo.png",
-"url": "https://sportzonline.co/channels/hd/hd2.php",
-"userAgent":"VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
-"referer":"",
-"isHost":"true"
-},
+
 {
 "name": "MOTOGP  ACESTREAM DAZN *",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
