@@ -107,12 +107,12 @@
 "isHost": "true"
 },
 {
-"name": "MOTOGP*",
+"name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
 "url": "http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/24923?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true",
-"isHost": "true"
+"isHost": ""
 
 },
 {
