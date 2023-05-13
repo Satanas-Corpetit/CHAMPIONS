@@ -134,14 +134,13 @@
 "isHost":"true"
 },
 {
-"name": "DAZN 1 **",
+"name": "DAZN 1 ",
 "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-"url": "https://www.freeshot.live/live-tv/dazn-1/237",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-
+"url": "http://open.sata7.com:25461/juanmayvero/7823k/70",
+"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "desktop": "true",
-"online":"true",
-"isHost": "true"
+"online":"true"
+
 },
 {
 "name": "DAZN 1 **VPN",
