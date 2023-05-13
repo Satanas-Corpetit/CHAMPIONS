@@ -107,14 +107,14 @@
 "isHost": "true"
 },
 {
-"name": "MOTOGP***",
+"name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
 "url": "https://sportskart.click/embed/stream-445.php",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 "referer":"https://futbolfullenvivo.com/canales-deportivos/",
 "desktop": "true",
 "online":"true",
-"isHost": "true"
+"embed": "true"
 
 },
 {
