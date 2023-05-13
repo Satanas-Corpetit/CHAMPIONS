@@ -232,9 +232,9 @@
 "online":"true"
 },
 {
-"name": "FORMULA 1* *",
+"name": "FORMULA 1*",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
-"url": "http://45.90.105.74:25461/bud-846977/c0afdce9b4/11779",
+"url": "http://open.sata7.com:25461/juanmayvero/7823k/70",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true"
 },
@@ -281,7 +281,7 @@
 {
 "name": "F1  ACESTREAM *",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
-"url": "acestream://c372020ed2744033f56548b6beb11a9f3e740f37",
+"url": "acestream://5853ff69c8588fe23ff5555261d4a43e6ad2f1ae",
 "online":"true",
 "isHost": true
 },
