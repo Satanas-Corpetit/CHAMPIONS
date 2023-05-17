@@ -247,6 +247,20 @@
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
             },
+	    {
+                "name": "CHAMPIONS*",
+                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
+                "url": "http://921688308743321429.nicesbot.xyz/live/7P5XL5FATN/1808046000/165358.ts",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+            },
+	     {
+                "name": "CHAMPIONS*",
+                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
+                "url": "http://sub.flood-wall.net/3143528788900281/2598854265/281477",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+            },
 	     {
                 "name": "CHAMPIONS",
                 "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
