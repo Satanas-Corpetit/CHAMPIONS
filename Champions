@@ -246,6 +246,14 @@
                 "url": "http://688689503931304705.niceapy.xyz:80/live/ja08203/5224310010/282469.ts",
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
+            },
+	     {
+                "name": "CHAMPIONS*",
+                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
+                "url": "https://pro.zorrohd8.xyz/live/STe7f6e5f2977e3f6.m3u8",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+		"referer":"https://player.tutelehd5.xyz/",
+                "online":"true"
             }
 
 ]
