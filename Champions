@@ -250,10 +250,10 @@
 	     {
                 "name": "CHAMPIONS",
                 "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
-                "url": "https://player.tutelehd5.xyz/online.php?a=6108",
+                "url": "https://sportskart.click/embed/stream-435.php",
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-		"referer":"https://player.tutelehd5.xyz/",
-                "online":"true"
+		"online":"true",
+		"isHost":"true"
             }
 
 ]
