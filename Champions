@@ -721,9 +721,9 @@
                 "online":"true"
           },
 	   {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "Freddy contra Jason",
+                              "image": "https://pics.filmaffinity.com/freddy_vs_jason-860246573-mmed.jpg",
+                "url":"https://upstream.to/16ap90w99oyw",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
@@ -742,15 +742,6 @@
                 "name": "Pesadilla en Elm Street (El origen)",
                               "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street-511303390-mmed.jpg",
                 "url":"https://upstream.to/y835wizjgbdj",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
-	   {
-                "name": "",
-                              "image": "",
-                "url":"",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
@@ -2451,6 +2442,119 @@
               
               
           ]},
+	  {
+                       "name":"SAGAS",
+      "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
+      "groups":[
+     
+	   {
+                       "name":"PESADILLA EN ELM STREET",
+      "image":"https://1.bp.blogspot.com/-FqVqdlVUZ38/Vewj1ZuJqcI/AAAAAAAACzs/7EVna9_2jBk/s640/poster.jpg",
+      "stations":[
+        {
+                "name": "Pesadilla en Elm Street",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street-790429633-mmed.jpg",
+                "url":"https://upstream.to/ae9s31amhycy",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 2: La venganza de Freddy",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street_2_freddy_s_revenge-329113889-mmed.jpg",
+                "url":"https://upstream.to/15xkunumleid",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 3: Los guerreros del sueño",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street_3_dream_warriors-725612823-mmed.jpg",
+                "url":"https://gamovideo.net/xx645rbx1729",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 4: El amo del sueño",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street_4_the_dream_master-374245138-mmed.jpg",
+                "url":"https://upstream.to/xwkdgqutlld5",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 5: El niño de los sueños",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street_5_the_dream_child-776011595-mmed.jpg",
+                "url":"https://upstream.to/5ek79u1vt2kr",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 6: Pesadilla final. La muerte de Freddy",
+                              "image": "https://pics.filmaffinity.com/freddy_s_dead_the_final_nightmare_a_nightmare_on_elm_street_6-934501006-mmed.jpg",
+                "url":"https://upstream.to/6mu6ghrrx3sc",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Freddy contra Jason",
+                              "image": "https://pics.filmaffinity.com/freddy_vs_jason-860246573-mmed.jpg",
+                "url":"https://upstream.to/16ap90w99oyw",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street 7: La nueva pesadilla de Wes Craven",
+                              "image": "https://pics.filmaffinity.com/wes_craven_s_new_nightmare_aka_a_nightmare_on_elm_street_7-603261504-mmed.jpg",
+                "url":"https://upstream.to/t8uxmxstruzd",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "Pesadilla en Elm Street (El origen)",
+                              "image": "https://pics.filmaffinity.com/a_nightmare_on_elm_street-511303390-mmed.jpg",
+                "url":"https://upstream.to/y835wizjgbdj",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          }
+     
+	  
+	  
+	  ]},
+	   {
+                       "name":"SAGAS",
+      "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
+      "stations":[
+     
+	  
+	  
+	  ]},
+	   {
+                       "name":"SAGAS",
+      "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
+      "stations":[
+     
+	  
+	  
+	  ]}
+          
+	  
+	  ]},
           
           
            {
