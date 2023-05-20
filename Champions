@@ -1433,7 +1433,106 @@
 	  
 	  ]},
 	   {
-                       "name":"SAGAS",
+                       "name":"STAR WARS",
+      "image":"https://media.vandal.net/i/620x348/3-2023/20233241436073_1.jpg",
+      "stations":[
+      
+      {
+                "name": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+                              "image": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace-434398792-mmed.jpg",
+                "url":"https://upstream.to/3s6je7z2l4rr",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "La guerra de las galaxias. Episodio II: El ataque de los clones",
+                              "image": "https://pics.filmaffinity.com/star_wars_episode_ii_attack_of_the_clones-495166632-mmed.jpg",
+                "url":"https://upstream.to/ixvvugps2caw",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "La guerra de las galaxias. Episodio III: La venganza de los Sith",
+                              "image": "https://pics.filmaffinity.com/star_wars_episode_iii_revenge_of_the_sith-699349136-mmed.jpg",
+                "url":"https://upstream.to/t619gcw8a6yt",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Han Solo: Una historia de Star Wars",
+                              "image": "https://pics.filmaffinity.com/solo_a_star_wars_story-540929627-mmed.jpg",
+                "url":"https://upstream.to/k9ty37hv52y8",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          }
+     
+	  
+	  
+	  ]},
+	   {
+                       "name":"",
       "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
       "stations":[
      
@@ -1441,7 +1540,7 @@
 	  
 	  ]},
 	   {
-                       "name":"SAGAS",
+                       "name":"",
       "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
       "stations":[
      
