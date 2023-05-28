@@ -692,9 +692,11 @@
                 "online":"true"
           },
 	     {
-                "name": "El asesino ",
+                "name": "El asesino *",
                               "image": "https://pics.filmaffinity.com/dip_huet_seung_hun_the_killer-755285720-mmed.jpg",
-                "url":"https://vd297.mycdn.me/?expires=1685381540135&srcIp=83.44.152.144&pr=10&srcAg=CHROME&ms=185.226.53.6&type=4&sig=3EckBG44MGU&ct=0&urls=45.136.21.25&clientType=0&id=631007218377",
+                "url":"https://ok.ru/video/1574970395337",
+		"desktot":"true",
+		"isHost":"true",
                 "online":"true"
           },
 	   {
