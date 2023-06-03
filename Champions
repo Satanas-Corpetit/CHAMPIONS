@@ -673,6 +673,24 @@
 		"isHost":"true",
                 "online":"true"
           },
+	    {
+                "name": "Sisu",
+                              "image": "https://pics.filmaffinity.com/sisu-927259029-mmed.jpg",
+                "url":"https://upstream.to/2kcyj6m55kvj",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+	  {
+                "name": "Diabolik - Ginko all'attacco!",
+                              "image": "https://pics.filmaffinity.com/diabolik_ginko_all_attacco-146697937-mmed.jpg",
+                "url":"https://upstream.to/edey6sawljvl",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
 	   {
                 "name": "A diente de perro",
                               "image": "https://pics.filmaffinity.com/a_diente_de_perro-738361448-mmed.jpg",
