@@ -310,9 +310,10 @@
           },
 
            { 
-                "name": "La Liga *",
+                "name": "La Liga ",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://s.cdn2.link/ch19.php",
+                "url": "https://probandillo5.foroactivo.com/h23-dazn-la-liga",
+		"referer":"https://probandillo5.foroactivo.com/",
                 "desktop": "true",
                 "online":"true",
                 "isHost": "true"
