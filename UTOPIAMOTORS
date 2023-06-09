@@ -154,10 +154,10 @@
 {
 "name": "DAZN 1 *",
 "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-"url": "https://vikistream.com/embed2.php?player=desktop&live=dazn1es",
+"url": "https://probandillo5.foroactivo.com/h6-dazn-1-esp",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 "online":"true",
-"isHost": "true"
+"embed": "true"
 },
 {
 "name": "DAZN 1 ***",
@@ -171,11 +171,10 @@
 {
 "name": "DAZN 2 *",
 "image": "https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203636",
-"url": "https://utopianwilderness.com/embed/vwtuk5h",
-"referer": "https://starlive.xyz/",
+"url": "https://probandillo5.foroactivo.com/h3-dazn-2-esp",
 "desktop": "true",
 "online":"true",
-"isHost":"true"
+"embed":"true"
 },
 {
 "name": "DAZN 3 *",
@@ -287,11 +286,10 @@
 {
 "name": "FORMULA 1*",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
-"url": "https://deliriousholistic.net/embed/su1la223",
-"referer" : "https://bahiadeportes.com/",
+"url": "https://probandillo5.foroactivo.com/h17-dazn-f1",
 "online":"true",
 "desktop": "true",
-"isHost":"true"
+"embed":"true"
 },
 {
 "name": "FORMULA 1* ",
