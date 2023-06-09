@@ -76,12 +76,12 @@
 "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
 },
 {
-"name": " MOTOGP  dazn * ",
+"name": " MOTOGP  dazn ** ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://vikistream.com/embed2.php?player=desktop&live=do30",
+"url" : "https://probandillo5.foroactivo.com/h6-dazn-1-esp",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 "online":"true",
-"isHost": "true"
+"embed": "true"
 },
 {
 "name": "MOTOGP",
