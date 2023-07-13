@@ -176,7 +176,14 @@
              
                   
           },
-          
+          {
+                "name": "TOROS HD 3**",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url": "https://www.freeshot.live/live-tv/mundotoro-tv/760",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true",
+                "isHost":"true"
+          },
          
           {
                 "name": "TOROS HD 3**",
