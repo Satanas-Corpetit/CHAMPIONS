@@ -60,6 +60,8 @@
 "name": "HAS ACTUALIZADO LA LISTA ANTES DE ENTRAR EN TV?",
 "image": "http://andreigubin.ucoz.ru/update.png"
 },
+
+
 {
 "name":"CANALES MOTOGP",
 "image":"https://media.giphy.com/media/TIKlnvZRky3CTFXdHi/giphy.gif?cid=ecf05e47imjt2mcrbp7t03zr5k48yrjnkcrqy7yx1jpqixyq&rid=giphy.gif&ct=g",
@@ -76,12 +78,12 @@
 "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
 },
 {
-"name": " MOTOGP  dazn ** ",
+"name": " MOTOGP  dazn  ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://probandillo5.foroactivo.com/h6-dazn-1-esp",
+"url" : "https://kiki11.live-streamfootball.co/es/motorsport/motogp-1462200/motogp-silverstone-united-kingdom---practice-2.html",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 "online":"true",
-"embed": "true"
+"isHost": "true"
 },
 {
 "name": "MOTOGP",
