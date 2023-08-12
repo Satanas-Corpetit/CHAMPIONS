@@ -2086,6 +2086,32 @@
 	  
 	  ]},
 	   {
+                       "name":"Kick-Ass",
+      "image":"https://images6.alphacoders.com/656/thumb-1920-656475.jpg",
+      "stations":[
+       {
+                "name": "Kick-Ass: Listo para machacar",
+                              "image": "https://pics.filmaffinity.com/kick_ass-588119374-mmed.jpg",
+                "url":"https://upstream.to/ja2pnc4gs4ql",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "Kick-Ass II: Con un par",
+                              "image": "https://pics.filmaffinity.com/kick_ass_2-413815618-mmed.jpg",
+                "url":"https://upstream.to/naofv0dzcpfk",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          }
+  
+	  
+	  
+	  ]},
+{
                        "name":"",
       "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
       "stations":[
