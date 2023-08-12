@@ -487,11 +487,10 @@
            
            
            {
-                "name": "Deportes *",
+                "name": "Deportes ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",
                 "url":"https://www.freeshot.live/live-tv/movistar-deportes/93",
-                "url": "https://www.freeshot.live/live-tv/movistar-laliga/89",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+              	"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
                 "isHost":"true"
                
