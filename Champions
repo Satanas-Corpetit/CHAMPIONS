@@ -360,8 +360,8 @@
                 "url": "http://921688308743321429.nicesbot.xyz/live/7P5XL5FATN/1808046000/320781.ts", 
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "desktop": "",
-		"isHost":"true",
-                "online":""
+		"isHost":"",
+                "online":"true"
             },
           { 
                 "name": "La Liga DAZN *",
