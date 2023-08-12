@@ -357,11 +357,11 @@
 	  {
                 "name": "la  Liga DAZN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://nopay.info/embed.php?id=liveLigaDAZN", 
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-                "desktop": "true",
+                "url": "http://921688308743321429.nicesbot.xyz/live/7P5XL5FATN/1808046000/320781.ts", 
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "desktop": "",
 		"isHost":"true",
-                "online":"true"
+                "online":""
             },
           { 
                 "name": "La Liga DAZN *",
