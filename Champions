@@ -658,6 +658,16 @@
 		"isHost":"true",
                 "online":"true"
           },
+  
+           {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
   {
                 "name": "",
                               "image": "",
@@ -671,6 +681,61 @@
                 "name": "",
                               "image": "",
                 "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "El mundo entero",
+                              "image": "https://pics.filmaffinity.com/el_mundo_entero-812633603-mmed.jpg",
+                "url":"https://upstream.to/kasrx42eu81k",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  
+           {
+                "name": "El reino de Dunark: el don de la serpiente",
+                              "image": "https://pics.filmaffinity.com/skammerens_datter_ii_slangens_gave-203745288-mmed.jpg",
+                "url":"https://upstream.to/x76cgu6u9634",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "Conspiración en El Cairo",
+                              "image": "https://pics.filmaffinity.com/boy_from_heaven-683653305-mmed.jpg",
+                "url":"https://upstream.to/m6jrjachzc3p",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Agente Stone",
+                              "image": "https://pics.filmaffinity.com/heart_of_stone-282567254-mmed.jpg",
+                "url":"https://upstream.to/8w8na5fi5glj",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Le Torrent",
+                              "image": "https://pics.filmaffinity.com/le_torrent-338330652-mmed.jpg",
+                "url":"https://vidoza.net/f0g7z9o3l49r",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "Sí, quiero... o no",
+                              "image": "https://pics.filmaffinity.com/maybe_i_do-982667296-mmed.jpg",
+                "url":"https://vidoza.net/7np7dzqfmj3p",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
