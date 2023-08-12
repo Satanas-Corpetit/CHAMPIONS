@@ -303,10 +303,10 @@
 	  { 
                 "name": "La Liga *",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://vikistream.com/embed2.php?player=desktop&live=mlaliga",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-                "desktop": "true",
-		"isHost":"true",
+                "url": "http://gauloise.cc/3143528788900281/2598854265/281500",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "desktop": "",
+		"isHost":"",
                 "online":"true"
                 
                
@@ -339,31 +339,9 @@
                
                 
           },
-           { 
-                "name": "La Liga VPN *",
-                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://gregorsamsa.life/embed/es/mlaliga.php",
-                "referer": "https://gregorsamsa.life/",
-                "desktop": "true",
-                "online":"true",
-                "embed":"true"
-                
-               
-                
-          },
+          
          
-          { 
-                "name": "La Liga VPN *",
-                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://megatelevisionhd.com/embed/repro/?r=Ly9ncmVnb3JzYW1zYS5saWZlL2VtYmVkL2VzL21sYWxpZ2EucGhw",
-                "referer": "https://gregorsamsa.life/",
-                "desktop": "true",
-                "online":"true",
-                "embed":"true"
-                
-               
-                
-          },
+         
            { 
                 "name": "La Liga  *",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
@@ -379,7 +357,7 @@
 	  {
                 "name": "la  Liga DAZN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://vikistream.com/embed2.php?player=desktop&live=daznlaliga", 
+                "url": "https://nopay.info/embed.php?id=liveLigaDAZN", 
                 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
                 "desktop": "true",
 		"isHost":"true",
@@ -396,27 +374,7 @@
                
                 
           },
-          { 
-                "name": "La Liga DAZN VPN*",
-                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://webui.openhd.lol/lb/star45/index.m3u8",
-                "online":"true"
-		
-                
-               
-                
-          },
-	  {
-                "name": "La Liga DAZN VPN*",
-                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://starlive.xyz/embed.php?id=livexLigaDazn",
-                "referer":"https://olacast.live/",
-                "desktop": "true",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-                "online":"true",
-                "isHost":"true"
-                  
-          },
+          
           
            
           {
