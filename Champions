@@ -281,11 +281,10 @@
            { 
                 "name": "La Liga *",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-		"referer": "https://elixx.xyz/",
-                "desktop": "true",
+                "url": "https://www.freeshot.live/live-tv/movistar-laliga/89",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
-                "isHost": "true"
+                "isHost":"true"
                 
                
                 
@@ -490,11 +489,11 @@
            {
                 "name": "Deportes *",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",
-                "url":"https://ragnarp.net/embed/dcgmsy35q",
-                "referer":"https://leet365.cc/",
-                "desktop": "true",
-		"online":"true",
-		"isHost": "true"
+                "url":"https://www.freeshot.live/live-tv/movistar-deportes/93",
+                "url": "https://www.freeshot.live/live-tv/movistar-laliga/89",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true",
+                "isHost":"true"
                
           },
            {
