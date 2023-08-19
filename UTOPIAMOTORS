@@ -80,15 +80,14 @@
 {
 "name": " MOTOGP  dazn  ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "https://kiki11.live-streamfootball.co/es/motorsport/motogp-1462200/motogp-silverstone-united-kingdom---practice-2.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-"online":"true",
-"isHost": "true"
+"url": "https://webudit.cdnhks.lol/lb/premium445/index.m3u8",
+"referer": "https://olacast.live/"
+"online":"true"
 },
 {
 "name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/24923?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951",
+"url": "http://tmaster.myftp.org:8080/zVnDoXmNFp/zv3ZYBTnFN/1147"
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true",
 "isHost": ""
@@ -97,7 +96,7 @@
 {
 "name": "MOTOGP*",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url" : "http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/24923?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951",
+"url": "http://gauloise.cc/3143528788900281/2598854265/281472"
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true"
 
@@ -105,11 +104,10 @@
 {
 "name": " MOTOGP  DAZN  * ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "https://ddh1.cdnhks.lol/ddh1/premium445/tracks-v1a1/mono.m3u8",
-"referer":"https://ntuplay.xyz/",
+"url": "https://familiatv-10.mrriskplot2.repl.co/dazn1.html",
 "online":"true",
 "desktop": "true",
-"isHost": ""
+"embed": "true"
 },
 {
 "name": " MOTOGP  dazn * ",
