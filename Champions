@@ -474,13 +474,13 @@
               
      		},
      			{
-			    "name": "DAZN 1 ",
+			    "name": "DAZN 1 *",
 			    "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-			    "url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-			    "referer" : "https://starlive.xyz/",
+			    "url" : "https://magosdeldeporte.com/embedy/dazn-1-espana.php",
+			    "referer" : "",
                 "desktop": "true",
                 "online":"true",
-                "isHost": "true"
+                "embed": "true"
               
      		},
 		   
