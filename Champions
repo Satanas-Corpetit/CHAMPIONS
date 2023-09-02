@@ -279,12 +279,13 @@
           
          
            { 
-                "name": "La Liga *",
+                "name": "La Liga ",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
                 "url": "https://magosdeldeporte.com/embedy/dazn-laliga.php",
-		 "desktop": "true",
+		 "referer" : "",
+                "desktop": "true",
                 "online":"true",
-                "embed":"true"
+                "embed": "true"
                 
                
                 
