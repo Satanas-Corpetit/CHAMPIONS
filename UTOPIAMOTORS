@@ -217,6 +217,14 @@
 {
 "name": "FORMULA 1*  ",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
+"url": "https://magosdeldeporte.com/embedy/dazn-f1.php",
+"desktop": "true",
+"online":"true",
+"embed":"true"
+},
+{
+"name": "FORMULA 1*  ",
+"image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
 "url": "https://www.freeshot.live/live-tv/dazn-f1/241",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 "desktop": "true",
