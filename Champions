@@ -623,11 +623,84 @@
                        "name":"A FALTA DE FUTBOL......PELIS",
       "image":"https://e7.pngegg.com/pngimages/39/640/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png",
       "groups":[  
+
+
 {
-                       "name":"",
-      "image":"https://1.bp.blogspot.com/-Yp_eu9CHaWU/UOGMuGomTtI/AAAAAAAAAdY/_wUedbdQn3w/s640/2E33379A5.jpg",
+                       "name":"El cuerpo en llamas",
+      "image":"https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
       "stations":[
-     
+       {
+                "name": "El cuerpo en llamas 1x01 El pantano",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/kfmtvkf9itrb",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El cuerpo en llamas 1x02 Dos Rosas",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/c5szx7xhzlte",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El cuerpo en llamas 1x03 La caída",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/oensx7n6xbkq",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },  {
+                "name": "El cuerpo en llamas 1x04 Navidad",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/bgs81cgo1klr",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El cuerpo en llamas 1x05 El amor",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/8lvjju51wxsd",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El cuerpo en llamas 1x06 Lo imposible",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/qi8n456yjzg1",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },  {
+                "name": "El cuerpo en llamas 1x07 Frente a frente",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/7v7ksx08n0fx",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El cuerpo en llamas 1x08 1 de mayo de 2017",
+                              "image": "https://pics.filmaffinity.com/el_cuerpo_en_llamas-326206210-mmed.jpg",
+                "url":"https://vidoza.net/ge25mqu9z2bl",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          }
+
+
 	  
 	  
 	  ]},
@@ -653,6 +726,15 @@
                 "name": "",
                               "image": "",
                 "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "La cita de Carl",
+                              "image": "https://pics.filmaffinity.com/carl_s_date-774225557-mmed.jpg",
+                "url":"https://vidoza.net/itc6ffibpnid",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
