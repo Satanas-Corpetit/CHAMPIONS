@@ -81,9 +81,10 @@
 "name": " MOTOGP  dazn  ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
 "url": "https://www.freeshot.live/live-tv/dazn-1/237",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
 "referer": "",
 "desktop":"true", 
-"embed":"true",
+"isHost":"true",
 "online":"true"
 },
 {
