@@ -170,8 +170,10 @@
           {
                 "name": "TOROS HD 2** ",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url" : "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "url" : "https://www.freeshot.live/embed/OneToroTV.php",
+                "referer":"https://teledeportiva4.blogspot.com/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+		"isHost":"true",
 		"online":"true"
              
                   
