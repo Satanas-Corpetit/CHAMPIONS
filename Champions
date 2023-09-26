@@ -313,52 +313,11 @@
                
                 
           },
-           { 
-                "name": "La Liga TV*",
-                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://vikistream.com/embed2.php?player=desktop&live=laligauk",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-                "desktop": "true",
-		"isHost":"true",
-                "online":"true"
-                
-                
-               
-                
-          },
-
-           { 
-                "name": "La Liga ",
-                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://probandillo5.foroactivo.com/h23-dazn-la-liga",
-		"referer":"https://probandillo5.foroactivo.com/",
-                "desktop": "true",
-                "online":"true",
-                "embed": "true"
-                
-                
-               
-                
-          },
           
-         
-         
-           { 
-                "name": "La Liga  *",
-                "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://strayindicate.net/embed/2twhx",
-		    	"referer": "https://1rowsportz.info/",
-		        "desktop": "true",
-		        "online":"true",
-			    "isHost" : "true" 
-                
-               
-                
-          },
-	  {
+         {
                 "name": "la  Liga DAZN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "http://921688308743321429.nicesbot.xyz/live/7P5XL5FATN/1808046000/320781.ts", 
+                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/282090", 
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "desktop": "",
 		"isHost":"",
