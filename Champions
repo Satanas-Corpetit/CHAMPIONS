@@ -414,11 +414,12 @@
             {
 		"name": "Liga de Campeones *",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-		"url": "https://tutelehd3.xyz/online.php?a=6108",
+		"url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/2692",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 		"referer": "",
                 "desktop": "true",
                 "online":"true",
-		"isHost":"true"
+		"isHost":""
                 
      	  },
            
