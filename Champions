@@ -129,7 +129,7 @@
           },
             
           {
-                "name": "ESTRENOS * ",
+                "name": "CINE * ",
                 "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
                 "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284008",
                 "isHost":"",
@@ -148,6 +148,13 @@
                 "name": "DARK * ",
                 "image": "https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",
                 "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284042",
+                "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
+                  
+          },
+{
+                "name": "DARK * ",
+                "image": "https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",
+                "url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/154",
                 "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
                   
           },
