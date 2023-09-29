@@ -68,48 +68,7 @@
                        "name":"TV PLUS",
       "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fthevpn.guru%2Fwp-content%2Fuploads%2F2018%2F08%2FHow-to-watch-Movistar-outside-Spain.jpg%3Ffit%3D640%252C456%26ssl%3D1&f=1&nofb=1",
       "stations":[
-           {
-                "name": "VIX TV *",
-                "image": "https://www.vix.com/tv/static/images/VIX_logos-01-min.aa579f5.png",
-                "url": "https://www.vix.com/tv/on-demand",
-                "referer":"https://telefullenvivo.com/ver-canal-0-online-en-directo/", 
-                "desktop": "true",
-                "online":"true",
-                "embed":"true"
-                  
-          },
-           {
-                "name": "TIVIFY *",
-                "image": "https://www.tivify.es/wp-content/uploads/2021/04/logo-tivify.png.webp",
-                "url": "https://www.tivify.tv/inicio",
-                "referer":"", 
-                "desktop": "true",
-                "online":"true",
-                "embed":"true"
-                  
-          },
-          {
-                "name": "PLUTO TV *",
-                "image": "https://i1.wp.com/spaciovirtual.net/wp-content/uploads/2021/04/pluto2.jpg?w=1080&ssl=1",
-                "url": "https://www.pluto.tv/",
-                "referer":"https://telefullenvivo.com/ver-canal-0-online-en-directo/", 
-                "desktop": "true",
-                "online":"true",
-                "embed":"true"
-                  
-          }, 
-	  {
-                "name": "HDFULL **",
-                "image": "https://hdfullcdn.cc/templates/hdfull/images/logo.png",
-                "url": "https://hdfull.store/login",
-		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-                "referer":"https://hdfull.store", 
-                "desktop": "true",
-                "online":"true",
-		
-                "embed":"true"
-                  
-          },
+          
           
           {
                 "name": "#0 *",
@@ -242,38 +201,8 @@
                 "desktop": "true",
                 "online":"true",
 		"isHost":"true"
-            },
-                
-            
-            {
-                "name": "CHAMPIONS*",
-                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
-                "url": "http://688689503931304705.niceapy.xyz:80/live/ja08203/5224310010/282469.ts",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-            },
-	    {
-                "name": "CHAMPIONS*",
-                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
-                "url": "http://921688308743321429.nicesbot.xyz/live/7P5XL5FATN/1808046000/165358.ts",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-            },
-	     {
-                "name": "CHAMPIONS*",
-                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
-                "url": "http://sub.flood-wall.net/3143528788900281/2598854265/281477",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-            },
-	     {
-                "name": "CHAMPIONS",
-                "image": "https://dailypost.ng/wp-content/uploads/2017/12/UEFA-Champions-League.jpg",
-                "url": "https://sportskart.click/embed/stream-435.php",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-		"online":"true",
-		"isHost":"true"
             }
+               
 
 ]
 },
@@ -333,10 +262,11 @@
           { 
                 "name": "La Liga DAZN *",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "https://utopianwilderness.com/embed/datzi6", 
-                "referer": "https://starlive.xyz/",
-                "online" : "true" 
-                
+                "url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/671", 
+                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "desktop": "",
+		"isHost":"",
+                "online":"true"
                 
                
                 
@@ -430,83 +360,16 @@
                 "isHost":"true"
                
           },
-         	{
-		 	 "name": "DAZN 1 *PRUEBA",
-			 "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-			 "url": "https://tutelehd3.xyz/online.php?a=6110",
-                 	 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-                	 "referer":"",
-                	 "desktop": "true",
-			 "online":"true",
-                	 "isHost": "true"
-              
-     		},
-     			{
-			    "name": "DAZN 1 *",
-			    "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-			    "url" : "https://magosdeldeporte.com/embedy/dazn-1-espana.php",
-			    "referer" : "",
-                "desktop": "true",
-                "online":"true",
-                "embed": "true"
-              
-     		},
-		   
-		   	{
-			    "name": "DAZN 1 *",
-			    "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-			    "url": "https://deliriousholistic.net/embed/tm0reet5y6nl3fi",
-                "referer": "https://bahiadeportes.com/",
-                "desktop": "true",
-		        "online":"true",
-                "isHost": "true"
-              
-     		},
-     		{
-			    "name": "DAZN 2 *",
-			    "image": "https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203636",
-			    "url": "https://tutelehd3.xyz/online.php?a=6111",
-		        "referer": "",
-			    "desktop": "true",
-		        "online":"true",
-			    "isHost":"true"
-     		},
-     		{
-			    "name": "DAZN 3 *",
-			    "image": "https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",
-			    "url": "https://utopianwilderness.com/embed/a2x9fkk75ru",
-			    "referer": "https://starlive.xyz/",
-			    "desktop": "true",
-		        "online":"true",
-			    "isHost":"true"
-     		},
-     		{
-			    "name": "DAZN 4 *",
-			    "image": "https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341",
-			    "url": "https://utopianwilderness.com/embed/8jqf49em",
-			    "referer": "https://starlive.xyz/",
-                "desktop": "true",
-		        "online":"true",
-			    "isHost":"true"
-     		},
-     		{
-				"name": "DAZN F1 * ",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405",
-			    "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
-                "referer": "https://starlive.xyz/",
-                "desktop": "true",
-                "online":"true",
-                "isHost": "true"
-							
-			},
+         	
 			{
 				"name": "DAZN F1 * ",
 				"image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405",
-			    "url": "https://cdix.pages.dev/daznf1",
-                "referer": "https://cdix.pages.dev/",
-                "desktop": "true",
-                "online":"true",
-                "embed": "true"
+			 	"url": "https://cdix.pages.dev/daznf1",
+             			"referer": "https://cdix.pages.dev/",
+             			"desktop": "true",
+				"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+                		"online":"true",
+                		"embed": "true"
 							
 			},
 				
