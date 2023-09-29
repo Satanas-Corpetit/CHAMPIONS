@@ -90,7 +90,7 @@
 {
 "name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://tmaster.myftp.org:8080/zVnDoXmNFp/zv3ZYBTnFN/1147",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/289",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true",
 "isHost": ""
@@ -99,7 +99,7 @@
 {
 "name": "MOTOGP*",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://gauloise.cc/3143528788900281/2598854265/281472",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/290",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true"
 
@@ -117,26 +117,18 @@
 			    "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
 			    "url" : "https://magosdeldeporte.com/embedy/dazn-1-espana.php",
 			    "referer" : "",
-          "desktop": "true",
-          "online":"true",
-          "embed": "true"
+        		    "desktop": "true",
+                            "online":"true",
+                            "embed": "true"
               
      		},
 {
 "name": " MOTOGP  DAZN2" ,
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "https://tutelehd3.xyz/online.php?a=6111",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/292",
 "referer" : "",
 "online":"true",
 "ishost": "true"
-},
-{
-"name": " MOTOGP  DAZN2  ",
-"image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "https://utopianwilderness.com/embed/vwtuk5h",
-"referer": "https://starlive.xyz/",
-"online":"true",
-"isHost":"true"
 },
 {
 "name": "DAZN 1 ",
@@ -148,56 +140,32 @@
 
 },
 {
-"name": "DAZN 1 **VPN",
-"image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-"url": "https://tutelehd3.xyz/online.php?a=6110",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-"desktop": "true",
+"name": " MOTOGP  DAZN2" ,
+"image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/292",
+"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+"referer" : "",
 "online":"true",
-"isHost": "true"
+"ishost": ""
 },
-{
-"name": "DAZN 1 *",
-"image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-"url": "https://probandillo5.foroactivo.com/h6-dazn-1-esp",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-"online":"true",
-"embed": "true"
-},
-{
-"name": "DAZN 1 ***",
-"image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
-"url": "https://vikistream.com/embed2.php?player=desktop&live=dazn1es",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-"desktop": "true",
-"online":"true",
-"isHost": "true"
-},
-{
-"name": "DAZN 2 *",
-"image": "https://static.wikia.nocookie.net/logopedia/images/a/ac/DAZN2_2021.png/revision/latest/scale-to-width-down/150?cb=20210308203636",
-"url": "https://probandillo5.foroactivo.com/h3-dazn-2-esp",
-"desktop": "true",
-"online":"true",
-"embed":"true"
-},
+
 {
 "name": "DAZN 3 *",
 "image": "https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",
-"url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
-"referer" : "https://leet365.cc/",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/296",
+"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "desktop": "true",
 "online":"true",
-"isHost":"true"
+"isHost":""
 },
 {
 "name": "DAZN 4 *",
 "image": "https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341",
-"url": "https://ragnarp.net/embed/zwaaqmvcz",
-"referer" : "https://macron.xyz/",
+"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/298",
+"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "desktop": "true",
 "online":"true",
-"isHost":"true"
+"isHost":""
 }
 ]
 },
