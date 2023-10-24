@@ -308,11 +308,10 @@
                   
           },
             {
-		"name": "Liga de Campeones *",
+		"name": "Liga de Campeones",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-		"url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/2692",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-		"referer": "",
+		"url": "https://webudit.hlsjs.ru/lb/premium435/index.m3u8",
+                "referer": "https://olacast.live/"
                 "desktop": "true",
                 "online":"true",
 		"isHost":""
@@ -330,12 +329,10 @@
           },
          
      		 {
-                "name": "Liga de Campeones *",
+                "name": "Liga de Campeones ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-                "url" : "https://utopianwilderness.com/embed/btusjpa",
-		"referer": "https://starlive.xyz/",
-                "desktop": "true",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+                "url": "http://413994677292339256.of2100.xyz/live/fe1125244/77nqMWNq9PNH/165358.ts"
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
 		"isHost":"true"
             },
