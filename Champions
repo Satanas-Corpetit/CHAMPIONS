@@ -311,7 +311,7 @@
 		"name": "Liga de Campeones",
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
 		"url": "https://webudit.hlsjs.ru/lb/premium435/index.m3u8",
-                "referer": "https://olacast.live/"
+                "referer": "https://olacast.live/",
                 "desktop": "true",
                 "online":"true",
 		"isHost":""
