@@ -215,7 +215,7 @@
           
          
            { 
-                "name": "La Liga ",
+                "name": "La Liga  USAR VPN",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
                 "url": "https://magosdeldeporte.com/embedy/dazn-laliga.php",
 		 "referer" : "",
@@ -227,9 +227,10 @@
                 
           },
 	   { 
-                "name": "La Liga **",
+                "name": "La Liga DAZN",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284067",
+                "url": "https://webudit.hlsjs.ru/lb/premium538/index.m3u8",
+                "referer": "https://olacast.live/"
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
                 
@@ -251,7 +252,7 @@
           },
           
          {
-                "name": "la  Liga DAZN*",
+                "name": "la  Liga DAZN USAR VPN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
                 "url": "https://magosdeldeporte.com/canales/dazn-laliga/", 
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
