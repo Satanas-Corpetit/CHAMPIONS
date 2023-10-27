@@ -241,7 +241,7 @@
 	  { 
                 "name": "La Liga *",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "http://gauloise.cc/3143528788900281/2598854265/281500",
+               "url": "http://gauloise.cc/3143528788900281/2598854265/281483",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "desktop": "",
 		"isHost":"",
@@ -277,14 +277,14 @@
           
            
           {
-                "name": "La Liga  *",
+                "name": "La Liga  **",
                 "image": "https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg",
-                "url": "https://deliriousholistic.net/embed/2sdwgqmqzm1",
-                "referer":"https://starlive.xyz/embed.php?id=liveLigaBAR",
+                "url": "http://gauloise.cc/3143528788900281/2598854265/281483",
+                "referer":"",
                 "desktop": "true",
-                "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
-                "isHost":"true"
+                "isHost":""
                   
           },
           {
