@@ -253,9 +253,10 @@
          {
                 "name": "la  Liga DAZN*",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/282090", 
+                "url": "https://magosdeldeporte.com/canales/dazn-laliga/", 
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "desktop": "",
+                "desktop": "true",
+                "embed":"true",
 		"isHost":"",
                 "online":"true"
             },
