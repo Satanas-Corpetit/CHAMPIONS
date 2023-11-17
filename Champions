@@ -358,22 +358,7 @@
                 "online":"true",
                 "isHost":"true"
                
-          },
-         	
-			{
-				"name": "DAZN F1 * ",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest/scale-to-width-down/250?cb=20220119163405",
-			 	"url": "https://cdix.pages.dev/daznf1",
-             			"referer": "https://cdix.pages.dev/",
-             			"desktop": "true",
-				"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-                		"online":"true",
-                		"embed": "true"
-							
-			},
-				
-		   
-           
+          },  
            
              {
                 "name": "#Vamos *",
