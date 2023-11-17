@@ -90,22 +90,22 @@
 {
 "name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/289",
+"url": "http://67583733699228384.of1030ok.xyz:80/play/fe1125244/77nqMWNq9PNH/228384.ts",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true",
 "isHost": ""
 
 },
 {
-"name": "MOTOGP*",
+"name": "MOTOGP",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/290",
+"url": "http://67583733699228385.of1030ok.xyz:80/play/fe1125244/77nqMWNq9PNH/228385.ts",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "online":"true"
 
 },
 {
-"name": " MOTOGP  DAZN  * ",
+"name": " MOTOGP  DAZN  ",
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
 "url": "https://familiatv-10.mrriskplot2.repl.co/dazn1.html",
 "online":"true",
@@ -113,7 +113,7 @@
 "embed": "true"
 },
 {
-"name": "DAZN 1 *",
+"name": "DAZN 1 ",
 "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
 "url" : "https://magosdeldeporte.com/embedy/dazn-1-espana.php",
 "referer" : "",
@@ -121,14 +121,7 @@
 "online":"true",
 "embed": "true"
 },
-{
-"name": " MOTOGP  DAZN2" ,
-"image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/292",
-"referer" : "",
-"online":"true",
-"ishost": "true"
-},
+
 {
 "name": "DAZN 1 ",
 "image": "https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg/revision/latest/scale-to-width-down/250?cb=20220119155737",
@@ -141,7 +134,7 @@
 {
 "name": " MOTOGP  DAZN2" ,
 "image": "http://i.computer-bild.de/imgs/8/8/8/6/1/2/5/DAZN-Logo-1024x576-01cec25f205791e2.jpg",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/292",
+"url": "http://67583733699228388.of1030ok.xyz:80/play/fe1125244/77nqMWNq9PNH/228388.ts",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "referer" : "",
 "online":"true",
@@ -149,9 +142,9 @@
 },
 
 {
-"name": "DAZN 3 *",
+"name": "DAZN 3 ",
 "image": "https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/296",
+"url": "http://67583733699228392.of1030ok.xyz:80/play/fe1125244/77nqMWNq9PNH/228392.ts",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "desktop": "true",
 "online":"true",
@@ -160,7 +153,7 @@
 {
 "name": "DAZN 4 *",
 "image": "https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341",
-"url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/298",
+"url": "http://67583733699228396.of1030ok.xyz:80/play/fe1125244/77nqMWNq9PNH/228396.ts",
 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 "desktop": "true",
 "online":"true",
