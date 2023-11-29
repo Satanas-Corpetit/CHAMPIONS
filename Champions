@@ -73,7 +73,7 @@
           {
                 "name": "#0 *",
                 "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
-                "url" : "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117210",
+                "url" : "http://233186806755321069.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/321069.ts",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           },
@@ -82,7 +82,7 @@
           {
                 "name": "ACCION * ",
                 "image": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Canal%2B_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/714?cb=20100604113249",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284010",
+                "url": "http://233186806755321305.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/321305.ts",
                 "online":"true"
                   
           },
@@ -90,7 +90,7 @@
           {
                 "name": "CINE * ",
                 "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284008",
+                "url": "http://233186806755321337.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/321337.ts",
                 "isHost":"",
                 "online":"true"
                   
@@ -99,29 +99,29 @@
           {
                 "name": "ESTRENOS 2 * ",
                 "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
-                "url": "http://37.49.230.42:8080/GenIptvLast/FaP6YswK77NaOPOF/295135",
+                "url": "http://233186806755321334.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/321334.ts",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           },
            {
                 "name": "DARK * ",
                 "image": "https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284042",
+                "url": "http://233186806755636331.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/636331.ts",
                 "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
                   
           },
 {
                 "name": "DARK * ",
                 "image": "https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/89239d953fe6b904607d03a8fe678450_c-dark.svg.png",
-                "url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/154",
+                "url": "http://233186806755541471.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/541471.ts",
                 "userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git"
                   
           },
 	   {
                 "name": "NBA TV* ",
                 "image": "https://i0.wp.com/sportsmedianews.com/wp-content/uploads/2014/01/NBA-TV-Logo.jpg?w=1000&ssl=1",
-                "url": "http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/284580",
-		
+                "url": "http://233186806755538749.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/538749.ts",
+		"userAgent": "VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git",
 		"online":"true"
                   
           },
@@ -239,9 +239,9 @@
                 
           },
 	  { 
-                "name": "La Liga *",
+                "name": "La Liga ",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-               "url": "http://gauloise.cc/3143528788900281/2598854265/281483",
+               "url": "http://233186806755165385.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/165385.ts",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "desktop": "",
 		"isHost":"",
@@ -262,9 +262,9 @@
                 "online":"true"
             },
           { 
-                "name": "La Liga DAZN *",
+                "name": "La Liga DAZN ",
                 "image": "https://e.rpp-noticias.io/normal/2019/03/29/042504_771671.jpg",
-                "url": "http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/671", 
+                "url": "http://233186806755165392.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/165392.ts", 
                  "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "desktop": "",
 		"isHost":"",
@@ -279,7 +279,7 @@
           {
                 "name": "La Liga  **",
                 "image": "https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg",
-                "url": "http://gauloise.cc/3143528788900281/2598854265/281483",
+                "url": "http://233186806755165393.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/165393.ts",
                 "referer":"",
                 "desktop": "true",
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
@@ -333,7 +333,7 @@
      		 {
                 "name": "Liga de Campeones ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png",
-                "url": "http://413994677292339256.of2100.xyz/live/fe1125244/77nqMWNq9PNH/165358.ts",
+                "url": "http://233186806755262412.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/262412.ts",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
 		"isHost":""
@@ -343,7 +343,7 @@
            {
                 "name": "Deportes ",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png",
-                "url":"https://www.freeshot.live/live-tv/movistar-deportes/93",
+                "url":"http://233186806755538695.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/538695.ts",
               	"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true",
                 "isHost":"true"
@@ -373,7 +373,7 @@
 	   {
                 "name": "#Vamos *",
                 "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1",
-                "url": "http://233186806755321072.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/321072.ts",
+                "url": "http://233186806755538744.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/538744.ts",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
              
