@@ -229,9 +229,8 @@
 	   { 
                 "name": "La Liga DAZN",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
-                "url": "https://webudit.hlsjs.ru/lb/premium538/index.m3u8",
-                "referer": "https://olacast.live/",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "url": "http://233186806755165392.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/165392.ts",
+               	"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
                 
                 
