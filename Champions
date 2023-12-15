@@ -237,6 +237,28 @@
                
                 
           },
+ { 
+                "name": "La Liga BAR",
+                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
+                "url": "http://233186806755268042.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/268042.ts",
+               	"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+                
+                
+               
+                
+          },
+ { 
+                "name": "La Liga BAR",
+                "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
+                "url": "http://233186806755165407.of1030ok.xyz:80/play/fe0311917/bDQrCYxWvVd/165407.ts",
+               	"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+                
+                
+               
+                
+          },
 	  { 
                 "name": "La Liga ",
                 "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2016/02/01/14543269442680.jpg",
