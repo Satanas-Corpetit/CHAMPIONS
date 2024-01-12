@@ -574,6 +574,42 @@
                 "online":"true"
           },
   {
+                "name": "Posse",
+                              "image": "https://pics.filmaffinity.com/posse-560802271-mmed.jpg",
+                "url":"https://gamovideo.net/5kvwnlk7jczm",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          }, 
+{
+                "name": "Aprendiz de Detective",
+                              "image": "https://pics.filmaffinity.com/underclassman-119976666-mmed.jpg",
+                "url":"https://gamovideo.net/z1ftdmpblx51",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+   {
+                "name": "Dual",
+                              "image": "https://pics.filmaffinity.com/echoes-494107402-mmed.jpg",
+                "url":"https://gamovideo.net/xevl1m8mcm2k",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+   {
+                "name": "Dark Cloud",
+                              "image": "https://pics.filmaffinity.com/dark_cloud-358789041-mmed.jpg",
+                "url":"https://gamovideo.net/k6f81w8cik7i",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
                 "name": "Lift: Un robo de primera clase",
                               "image": "https://pics.filmaffinity.com/lift-500114909-mmed.jpg",
                 "url":"https://vidoza.net/dsvv1rebmcyl",
