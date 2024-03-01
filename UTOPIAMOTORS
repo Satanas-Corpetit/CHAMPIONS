@@ -186,10 +186,11 @@
 "embed":"true"
 },
 {
-"name": "FORMULA 1**  ",
+"name": "FORMULA 1*  ",
 "image": "https://staticr1.blastingcdn.com/media/photogallery/2019/7/8/660x290/b_502x220/new-formula-1-logo-revealed-motor1com_2291187.jpg",
 "url": "https://deporte-libre.net/en-vivo-online/dazn-formula-1-es/embed.php",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
+"referer":"https://deporte-libre.net/mpd2.php?id=formula1-op2",
 "desktop": "true",
 "online":"true",
 "isHost":"true"
