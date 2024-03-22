@@ -556,12 +556,12 @@
                 "online":"true"
           },
   {
-                "name": "Mortal Kombat",
+                "name": "Mortal Kombat*",
                               "image": "https://pics.filmaffinity.com/mortal_kombat-245960455-mmed.jpg",
                 "url":"https://upstream.to/bspwwg7o5knt",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"isHost":"true",
+		"isHost":"",
                 "online":"true"
           },
  {
