@@ -579,7 +579,6 @@
                 "url":"https://vidmoly.to/embed-2b8uaacozfp1.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 		"isHost":"true",
                 "online":"true"
           },
@@ -589,8 +588,7 @@
                 "url":"https://vidmoly.to/embed-xjxr4p2vjfbt.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
- 		"userAgent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",
-		"isHost":"true",
+ 		"isHost":"true",
                 "online":"true"
           },
  {
@@ -603,9 +601,9 @@
                 "online":"true"
           }, 
  {
-                "name": "Ocho apellidos marroquís",
+                "name": "Ocho apellidos marroquís*",
                               "image": "https://pics.filmaffinity.com/ocho_apellidos_marroquis-568123490-mmed.jpg",
-                "url":"https://vidmoly.me/w/dtirsaxoos3w",
+                "url":"https://vidmoly.to/embed-dtirsaxoos3w.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
@@ -633,7 +631,7 @@
   {
                 "name": "El corazón del cazador",
                               "image": "https://pics.filmaffinity.com/heart_of_the_hunter-225887290-mmed.jpg",
-                "url":"https://vidmoly.me/w/tl30ywzpqvc4",
+                "url":"https://vidmoly.to/embed-0go2c4aqbcm5.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
