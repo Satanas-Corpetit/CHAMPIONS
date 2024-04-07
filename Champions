@@ -576,14 +576,15 @@
  {
                 "name": "El rapto",
                               "image": "https://pics.filmaffinity.com/rapito-981121602-mmed.jpg",
-                "url":"https://vidmoly.to/embed-2b8uaacozfp1",
+                "url":"https://vidmoly.to/embed-2b8uaacozfp1.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
+		"userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
 		"isHost":"true",
                 "online":"true"
           },
  {
-                "name": "La ermita*",
+                "name": "La ermita",
                               "image": "https://pics.filmaffinity.com/la_ermita-648510610-mmed.jpg",
                 "url":"https://vidmoly.to/embed-xjxr4p2vjfbt.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
