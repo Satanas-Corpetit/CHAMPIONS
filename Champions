@@ -546,6 +546,26 @@
                 "online":"true"
          
           },
+  "stations":[
+      {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "El Origen del Planeta de los Simios",
+                              "image": "https://pics.filmaffinity.com/rise_of_the_planet_of_the_apes-817040997-mmed.jpg",
+                "url":"https://upstream.to/v774hiofsodn",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+         
+          },
  {
                 "name": "Beekeeper: El protector",
                               "image": "https://pics.filmaffinity.com/the_beekeeper-593721159-mmed.jpg",
@@ -676,7 +696,7 @@
   {
                 "name": "Dune: Parte dos",
                               "image": "https://pics.filmaffinity.com/dune_part_two-802143593-mmed.jpg",
-                "url":"https://vidmoly.to/embed-j1g3h3qc497g.html",
+                "url":"https://upstream.to/o2drt2pwizbl",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
