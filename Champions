@@ -545,7 +545,7 @@
 		"isHost":"true",
                 "online":"true"
           },
-  {
+   {
                 "name": "",
                               "image": "",
                 "url":"",
@@ -554,10 +554,28 @@
 		"isHost":"true",
                 "online":"true"
           },
+  {
+                "name": "Altar",
+                              "image": "https://pics.filmaffinity.com/altar-578032030-mmed.jpg",
+                "url":"https://gamovideo.net/eiafwyimyr9f",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Historias de la morgue",
+                              "image": "https://pics.filmaffinity.com/the_mortuary_collection-956986586-mmed.jpg",
+                "url":"https://gamovideo.net/n8koez8uqab8",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
  {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "Dumplings",
+                              "image": "https://pics.filmaffinity.com/jiao_zi-545389035-mmed.jpg",
+                "url":"https://gamovideo.net/3gvyny5q67tb",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
