@@ -625,7 +625,7 @@
 		"isHost":"true",
                 "online":"true"
           },
-  {
+   {
                 "name": "",
                               "image": "",
                 "url":"",
@@ -635,9 +635,117 @@
                 "online":"true"
           },
   {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "Detonantes",
+                              "image": "https://pics.filmaffinity.com/trigger_warning-770078537-mmed.jpg",
+                "url":"https://gamovideo.net/tz16ypzq2p69",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Nunca Me Encontrarás",
+                              "image": "https://pics.filmaffinity.com/you_ll_never_find_me-124780193-mmed.jpg",
+                "url":"https://gamovideo.net/p1rwd5panh9z",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Mamántula",
+                              "image": "https://pics.filmaffinity.com/mamantula-776838335-mmed.jpg",
+                "url":"https://gamovideo.net/v48dv7sr5ts1",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "Dream Scenario",
+                              "image": "https://pics.filmaffinity.com/dream_scenario-935830715-mmed.jpg",
+                "url":"https://gamovideo.net/8yyy54nhrd7p",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Pájaros",
+                              "image": "https://pics.filmaffinity.com/pajaros-640647961-mmed.jpg",
+                "url":"https://gamovideo.net/45qsll741ksh",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "MR-9: Do or Die",
+                              "image": "https://pics.filmaffinity.com/mr_9_do_or_die-692699121-mmed.jpg",
+                "url":"https://gamovideo.net/7uxphbvz0vmq",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Birth/Rebirth",
+                              "image": "https://pics.filmaffinity.com/birth_rebirth-179017639-mmed.jpg",
+                "url":"https://gamovideo.net/yrhicg67jp26",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Amor en toda la cara",
+                              "image": "https://pics.filmaffinity.com/amor_en_toda_la_cara-940527051-mmed.jpg",
+                "url":"https://gamovideo.net/luzvgsmj4bpf",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Cora",
+                              "image": "https://pics.filmaffinity.com/cora-552061982-mmed.jpg",
+                "url":"https://gamovideo.net/w3419oulwmfl",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+ {
+                "name": "Spadek",
+                              "image": "https://pics.filmaffinity.com/spadek-921499496-mmed.jpg",
+                "url":"https://gamovideo.net/vrqiomsk1f11",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "The Flood",
+                              "image": "https://pics.filmaffinity.com/the_flood-426388480-mmed.jpg",
+                "url":"https://gamovideo.net/3pun7is4hctp",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Sulis 1907",
+                              "image": "https://pics.filmaffinity.com/sulis_1907-489137788-mmed.jpg",
+                "url":"https://gamovideo.net/2l4vwalobnej",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "La academia del Sr. Kleks",
+                              "image": "https://pics.filmaffinity.com/akademia_pana_kleksa-728794254-mmed.jpg",
+                "url":"https://gamovideo.net/958j11v8dv93",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
 		"isHost":"true",
