@@ -540,86 +540,7 @@
 	  
 	  
 	  ]},
-{
-                       "name":"Muertos S.L.",
-      "image":"https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-      "stations":[
-       {
-                "name": "1x01 Episodio 1",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/0q2fnuo5tme7",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
- {
-                "name": "1x02 Episodio 2",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/u6o6bf0m7qi3",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
- {
-                "name": "1x03 Episodio 3",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/96jjjk5n1vtg",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },  {
-                "name": "1x04 Episodio 4",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/ajefgjswojd4",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
- {
-                "name": "1x05 Episodio 5",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/rdx5407xe73x",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
-{
-                "name": "1x06 Episodio 6",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/p9m7r2svdqlt",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
-{
-                "name": "1x07 Episodio 7",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/3efzpwrdjqhj",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          },
- {
-                "name": "1x08 Episodio 8",
-                              "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-mmed.jpg",
-                "url":"https://gamovideo.net/ugamnux62f9k",
-                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                "desktot":"true",
-		"isHost":"true",
-                "online":"true"
-          }
 
-
-	  
-	  
-	  ]},
           
           {
                        "name":"ESTRENOS",
@@ -652,6 +573,60 @@
 		"isHost":"true",
                 "online":"true"
           },
+   {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "",
+                              "image": "",
+                "url":"",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Paradox Effect",
+                              "image": "https://pics.filmaffinity.com/paradox_effect-411489415-mmed.jpg",
+                "url":"https://gamovideo.net/8w0uyb5mmhlg",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "The Inherited",
+                              "image": "https://pics.filmaffinity.com/the_inherited_aka_stranger_in_the_house-620666119-mmed.jpg",
+                "url":"https://gamovideo.net/vbojbq7bng4r",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "Disco, Ibiza, Locomía",
+                              "image": "https://pics.filmaffinity.com/disco_ibiza_locomia-885184366-mmed.jpg",
+                "url":"https://gamovideo.net/qfm6bpa4e4sl",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
+  {
+                "name": "The American Society of Magical Negroes",
+                              "image": "https://pics.filmaffinity.com/the_american_society_of_magical_negroes-458586123-mmed.jpg",
+                "url":"https://gamovideo.net/3mj846xq2fk4",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"isHost":"true",
+                "online":"true"
+          },
   {
                 "name": "La reina del convento",
                               "image": "https://pics.filmaffinity.com/la_reina_del_convento-845921689-mmed.jpg",
@@ -676,7 +651,7 @@
                 "url":"https://vidmoly.to/embed-45zgw805oh3b.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"isHost":"true",
+		"embed":"true",
                 "online":"true"
           },
   {
@@ -685,7 +660,7 @@
                 "url":"https://vidmoly.to/embed-zbkwncjotnoi.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"isHost":"true",
+		"embed":"true",
                 "online":"true"
           },
   {
@@ -694,7 +669,7 @@
                 "url":"https://vidmoly.to/embed-hibbahvkalox.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"isHost":"true",
+		"embed":"true",
                 "online":"true"
           },
   {
