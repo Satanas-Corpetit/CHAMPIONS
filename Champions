@@ -178,7 +178,7 @@
 	   {
                 "name": "TOROS *",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url": "http://480977830884558671.of0828.xyz:80/play/8K5KBJ2PMP/bWXYYCQA5v/558671.ts",
+                "url": "http://442973.solanaflix.com:8080/TV-28940125/750447322298/164966",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           }
@@ -574,12 +574,84 @@
                 "online":"true"
           },
   {
-                "name": "",
-                              "image": "",
-                "url":"",
+                "name": "Descansa en paz",
+                              "image": "https://pics.filmaffinity.com/handtering_av_udode-294632491-mmed.jpg",
+                "url":"https://vidmoly.to/embed-wkoub31zdskf.html",
                 "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                 "desktot":"true",
-		"isHost":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "The Strangers: Chapter 1",
+                              "image": "https://pics.filmaffinity.com/the_strangers_chapter_1-835571955-mmed.jpg",
+                "url":"https://vidmoly.to/embed-x6oyn3dr26ut.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+ {
+                "name": "El bus de la vida",
+                              "image": "https://pics.filmaffinity.com/el_bus_de_la_vida-595859642-mmed.jpg",
+                "url":"https://vidmoly.to/embed-zjk3e8cobywq.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "Los horrores de Caddo Lake",
+                              "image": "https://pics.filmaffinity.com/caddo_lake-701459212-mmed.jpg",
+                "url":"https://vidmoly.to/embed-k66hemqcvyyc.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "Pandemonium",
+                              "image": "https://pics.filmaffinity.com/pandemonium-552281738-mmed.jpg",
+                "url":"https://vidmoly.to/embed-5s063j40ys5k.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "Bitelchús Bitelchús",
+                              "image": "https://pics.filmaffinity.com/beetlejuice_beetlejuice-890586814-mmed.jpg",
+                "url":"https://vidmoly.to/embed-j3rjj6y7sju5.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+ {
+                "name": "He Went That Way",
+                              "image": "https://pics.filmaffinity.com/he_went_that_way-500679527-mmed.jpg",
+                "url":"https://vidmoly.to/embed-36cdd76bfpi1.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "La Hierba del Diablo",
+                              "image": "https://pics.filmaffinity.com/la_hierba_del_diablo-632169254-mmed.jpg",
+                "url":"https://vidmoly.to/embed-e0aq3nftochz.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
+                "online":"true"
+          },
+  {
+                "name": "The Forge",
+                              "image": "https://pics.filmaffinity.com/the_forge-998430397-mmed.jpg",
+                "url":"https://vidmoly.to/embed-02vxsb3daily.html",
+                "userAgent":"Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                "desktot":"true",
+		"embed":"true",
                 "online":"true"
           },
  {
