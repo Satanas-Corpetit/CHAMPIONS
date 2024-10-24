@@ -134,6 +134,14 @@
 		"online":"true"
                   
           },
+  {
+                "name": "TOROS HD 1* ",
+                "image": "https://telefullenvivo.com/logos/toros.png",
+                "url": "http://247737697366558672.ofgd1018.xyz:80/live/zh417316/qRfAxmUVHb/558672.ts",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+		"online":"true"
+                  
+          },
           {
                 "name": "TOROS HD 2*",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
