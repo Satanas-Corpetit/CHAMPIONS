@@ -692,7 +692,7 @@
                                     "isHost": "true",
                                     "online": "true"
                                 },
-                                {
+ {
                                     "name": "",
                                     "image": "",
                                     "url": "",
@@ -732,6 +732,105 @@
                                     "name": "",
                                     "image": "",
                                     "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "Red One",
+                                    "image": "https://pics.filmaffinity.com/red_one-326062250-mmed.jpg",
+                                    "url": "https://vidmoly.to/embed-aq75mjjpcsf3.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "Robot salvaje",
+                                    "image": "https://pics.filmaffinity.com/the_wild_robot-598191664-mmed.jpg",
+                                    "url": "https://gamovideo.net/yuszzpfdvqzy",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "El mayordomo inglés",
+                                    "image": "https://pics.filmaffinity.com/completement_crame-247057635-mmed.jpg",
+                                    "url": "https://gamovideo.net/9mzojirh706f",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "Mørkeland",
+                                    "image": "https://pics.filmaffinity.com/morkeland-717794152-mmed.jpg",
+                                    "url": "https://gamovideo.net/87j2k84ct3ej",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "Cuerpo escombro",
+                                    "image": "https://pics.filmaffinity.com/cuerpo_escombro-537227189-mmed.jpg",
+                                    "url": "https://gamovideo.net/xd6f4ckzcdo0",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "MaXXXine",
+                                    "image": "https://pics.filmaffinity.com/maxxxine-184829301-mmed.jpg",
+                                    "url": "https://gamovideo.net/41vrhuu7dook",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "Equipaje de mano",
+                                    "image": "https://pics.filmaffinity.com/carry_on-336040738-mmed.jpg",
+                                    "url": "https://gamovideo.net/sdexzi5bawsr",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "El Conde de Montecristo",
+                                    "image": "https://pics.filmaffinity.com/le_comte_de_monte_cristo-385502340-mmed.jpg",
+                                    "url": "https://gamovideo.net/4py8r3nq6m5e",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "La peor obra de navidad",
+                                    "image": "https://pics.filmaffinity.com/the_best_christmas_pageant_ever-957964733-mmed.jpg",
+                                    "url": "https://gamovideo.net/s3hzvfs4bggh",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+                                {
+                                    "name": "Venom: El último baile",
+                                    "image": "https://pics.filmaffinity.com/venom_the_last_dance-379990903-mmed.jpg",
+                                    "url": "https://gamovideo.net/swpk9f41fxmn",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
                                     "isHost": "true",
@@ -3316,10 +3415,10 @@
                                 {
                                     "name": "La mesita del comedor",
                                     "image": "https://pics.filmaffinity.com/la_mesita_del_comedor-401694950-mmed.jpg",
-                                    "url": "https://upstream.to/4g1x7pjkiiif",
+                                    "url": "https://vidmoly.to/embed-qs10vipvvtbp.html",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
-                                    "isHost": "true",
+                                    "embed": "true",
                                     "online": "true"
                                 },
                                 {
