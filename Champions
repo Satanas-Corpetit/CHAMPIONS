@@ -684,14 +684,24 @@
                                     "online": "true"
                                 },
 {
-                                    "name": "Monster Hunter: Leyendas del gremio",
-                                    "image": "https://pics.filmaffinity.com/monster_hunter_legends_of_the_guild-849810290-mmed.jpg",
+                                    "name": "",
+                                    "image": "",
                                     "url": "",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
                                     "isHost": "true",
                                     "online": "true"
                                 },
+{
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+
 
  {
                                     "name": "Odio el verano",
