@@ -683,6 +683,15 @@
                                     "isHost": "true",
                                     "online": "true"
                                 },
+ {
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
 {
                                     "name": "",
                                     "image": "",
@@ -701,10 +710,64 @@
                                     "isHost": "true",
                                     "online": "true"
                                 },
+ {
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
 {
                                     "name": "",
                                     "image": "",
                                     "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+  {
+                                    "name": "Vacaciones sin mamá",
+                                    "image": "https://pics.filmaffinity.com/10_jours_encore_sans_maman-536420326-mmed.jpg",
+                                    "url": "https://gamovideo.net/nblxjwdepej4",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+{
+                                    "name": "La bestia oculta",
+                                    "image": "https://pics.filmaffinity.com/the_beast_within-705108213-mmed.jpg",
+                                    "url": "https://gamovideo.net/3qp7unebks9v",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+{
+                                    "name": "The Wasp",
+                                    "image": "https://pics.filmaffinity.com/the_wasp-485747197-mmed.jpg",
+                                    "url": "https://gamovideo.net/meypo0xft8k8",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+  {
+                                    "name": "Un Lugar En Silencio: Día Uno",
+                                    "image": "https://pics.filmaffinity.com/a_quiet_place_day_one-758712709-mmed.jpg",
+                                    "url": "https://gamovideo.net/n20kjw448ylm",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+{
+                                    "name": "De naturaleza violenta",
+                                    "image": "https://pics.filmaffinity.com/in_a_violent_nature-281559043-mmed.jpg",
+                                    "url": "https://gamovideo.net/oujc8mkqp4m4",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
                                     "isHost": "true",
@@ -3093,10 +3156,10 @@
                                 {
                                     "name": "Burga",
                                     "image": "https://pics.filmaffinity.com/burga-900054336-mmed.jpg",
-                                    "url": "https://vidmoly.to/embed-wzpf9y7zthd2.html",
+                                    "url": "https://gamovideo.net/w7ffqi66szud",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
-                                    "embed": "true",
+                                    "isHost": "true",
                                     "online": "true"
                                 },
                                 {
