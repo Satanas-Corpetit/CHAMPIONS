@@ -755,13 +755,21 @@
                                     "embed": "true",
                                     "online": "true"
                                 },
-  {
-                                    "name": "Kraven the Hunter",
+ {
+                                    "name": "Kraven the Hunter*",
                                     "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-mmed.jpg",
                                     "url": "https://nuuuppp.biz/watch/H8g9M0egq3Govxwe10Ytwq8ZC7Ku1bpwmO8IDVpxZQs?h=",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
-                                     "referer": "https://powstreem.info/",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+  {
+                                    "name": "Kraven the Hunter*",
+                                    "image": "https://pics.filmaffinity.com/kraven_the_hunter-206172064-mmed.jpg",
+                                    "url": "https://nuuuppp.biz/watch/H8g9M0egq3Govxwe10Ytwq8ZC7Ku1bpwmO8IDVpxZQs?h=",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
                                     "isHost": "true",
                                     "online": "true"
                                 },
