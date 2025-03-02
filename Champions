@@ -719,13 +719,32 @@
                                     "isHost": "true",
                                     "online": "true"
                                 },
+
  {
-                                    "name": "",
-                                    "image": "",
-                                    "url": "",
+                                    "name": "Lost on a Mountain in Maine",
+                                    "image": "https://pics.filmaffinity.com/lost_on_a_mountain_in_maine-773743288-mmed.jpg",
+                                    "url": "https://vidmoly.to/embed-jbktd14bnhvx.html",
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
-                                    "isHost": "true",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "Oni-Goroshi: Ciudad de los demonios",
+                                    "image": "https://pics.filmaffinity.com/oni_goroshi-797942440-mmed.jpg",
+                                    "url": "https://vidmoly.to/embed-xkxvnftuxbf3.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "La maldición del colgante",
+                                    "image": "https://pics.filmaffinity.com/the_curse_of_the_necklace-169055771-mmed.jpg",
+                                    "url": "https://vidmoly.to/embed-zfzzuk4um1rn.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
                                     "online": "true"
                                 },
  {
