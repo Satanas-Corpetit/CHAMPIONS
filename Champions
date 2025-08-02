@@ -683,16 +683,7 @@
                                     "isHost": "true",
                                     "online": "true"
                                 },
-  {
-                                    "name": "",
-                                    "image": "",
-                                    "url": "",
-                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
-                                    "desktot": "true",
-                                    "isHost": "true",
-                                    "online": "true"
-                                },
-{
+ {
                                     "name": "",
                                     "image": "",
                                     "url": "",
@@ -708,6 +699,52 @@
                                     "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
                                     "desktot": "true",
                                     "isHost": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "",
+                                    "image": "",
+                                    "url": "",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "isHost": "true",
+                                    "online": "true"
+                                },
+
+  {
+                                    "name": "The Killer",
+                                    "image": "https://pics.filmaffinity.com/the_killer-362764949-mmed.jpg",
+                                    "url": "https://vidmoly.net/embed-38wl0blce9el.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+{
+                                    "name": "Azrael",
+                                    "image": "https://pics.filmaffinity.com/azrael-928764947-mmed.jpg",
+                                    "url": "https://vidmoly.net/embed-ueioo16ahg5s.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
+                                    "online": "true"
+                                },
+ {
+                                    "name": "El llanto",
+                                    "image": "https://pics.filmaffinity.com/el_llanto-518745023-mmed.jpg",
+                                    "url": "https://vidmoly.net/embed-civiwxlvf9go.html",
+                                    "userAgent": "Mozilla/5.0/ iPad; U; CPU OS 3_2 like Mac OS X; en-us AppleWebKit/531.21.10 KHTML, like Gecko Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+                                    "desktot": "true",
+                                    "embed": "true",
                                     "online": "true"
                                 },
   {
